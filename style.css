@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui;
+  background: cyan;
+  color: violet;
+  text-align: center;
+  text-size:100px;
+}
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+ right: 30px;   
+ cursor: pointer;
+   color: black;
+    
+}
+
+#myname
+{
+    font-family: "courgette",cursive;
+}
